@@ -1,2 +1,4 @@
 # ProgressBelajarku
-Repository ini berisi pengalaman kerjaku di dicoding
+Repository ini berisi pengalaman belajarku di dicoding
+--
+*Belajar Dasar Git dengan Github*
