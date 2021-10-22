@@ -2,7 +2,10 @@
 interface ProdukEkspor {
   public function cekHargaUsd();
   public function cekNegara();
+  public const biayaPajak = 0.5; // konstanta biaya pajak
 }
+
+echo ProdukEkspor::biayaPajak; // 0.5  diakses dengan menggunakan scope resolution "::"
 
 interface ProdukMakanan {
   public function cekExpired();
